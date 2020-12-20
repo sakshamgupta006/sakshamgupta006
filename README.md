@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/sakshamgupta006/sakshamgupta006/blob/main/front.jpg" alt="Coding Bliss" width=350px height=465px/>
+<img align="right" src="https://github.com/sakshamgupta006/sakshamgupta006/blob/main/front.jpg" alt="Coding Bliss" width=465px height=465px/>
 
 ### Hi, I'm Saksham 👋
 
