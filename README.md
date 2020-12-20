@@ -35,7 +35,7 @@ I am always available to discuss new ideas.
 
 ## About
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on life
 - 🌱 I’m currently learning Reinforcement Learning
 - 👯 I’m looking to collaborate on awesome Machine Learning Ideas
 - 💬 Ask me about life, universe and everything.
