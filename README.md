@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https:/github.com/sakshamgupta006/sakshamgupta006/blob/main/front.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+
+### Hi, I'm Saksham 👋
 
 <!--
 **sakshamgupta006/sakshamgupta006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
