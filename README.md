@@ -25,8 +25,22 @@ https://simpleicons.org/
   <a href="#"><img src="https://badges.pufler.dev/visits/sakshamgupta006/sakshamgupta006"></a> Visitor Count of the Current Page
 </p>
 
+---
 
-https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white
+## Brief
+
+I am Software Engineer passionate about building scalable Data and Machine Learning Platforms. I am currently working on Azure in Microsoft's Cloud and AI Organization in Redmond, WA.
+I am always available to discuss new ideas. 
+
+
+## About
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Reinforcement Learning
+- 👯 I’m looking to collaborate on awesome Machine Learning Ideas
+- 💬 Ask me about life, universe and everything.
+- 😄 Pronouns: He/Him
+
 <!--
 **sakshamgupta006/sakshamgupta006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
