@@ -3,9 +3,17 @@
 ### Hi, I'm Saksham 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/guptasaksham)
-[![Gmail Badge](hhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham@vt.edu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham@vt.edu)
 
 ---
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sakshamgupta006&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/sakshamgupta006/sakshamgupta006"></a> Visitor Count of the Current Page
+</p>
 
 <!--
 **sakshamgupta006/sakshamgupta006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
