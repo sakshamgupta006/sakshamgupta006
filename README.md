@@ -2,6 +2,11 @@
 
 ### Hi, I'm Saksham 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/guptasaksham)
+[![Gmail Badge](hhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham@vt.edu)
+
+---
+
 <!--
 **sakshamgupta006/sakshamgupta006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
